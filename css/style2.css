@@ -85,7 +85,6 @@ a:visited {
 a:hover {
   color: black;
   font-weight: bold;
-  text-decoration: underline;
 }
 a:active {
   color: black; font-weight: bold;
